@@ -190,6 +190,17 @@
     text-align: center;
 }
 
+.alert-fail {
+    color: maroon;
+    background-color: salmon;
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    font-size: 14px;
+    text-align: center;
+}
+
 </style>
 
 <body class="contact"> <!--Bagian Body seluruhnya wajib-->
@@ -235,7 +246,9 @@
                     </div> 
                     <button class="contact-button" type="submit">Submit</button>
                 </form>     
-                <div id="notification" style="display:none; color: green; font-weight: bold;"></div>           
+                <!-- Div notifikasi diperbaiki -->
+                <div id="notification" class="alert-success" style="display: none;">Pesan Berhasil Dikirim</div>
+                <div id="errorNotification" class="alert-fail" style="display: none;">Terjadi kesalahan</div>          
             </div>
             <script>
                 const form = document.getElementById('contactForm');
@@ -256,16 +269,29 @@
                     .then(response => response.json())
                     .then(data => {
                         if (data.success) {
+                            // Tampilkan notifikasi jika berhasil
                             notification.style.display = 'block';
-                            notification.textContent = data.success; // Tampilkan pesan sukses
+                            notification.textContent = "Pesan berhasil dikirim!"; // Gunakan pesan yang diinginkan
                             form.reset(); // Reset form setelah submit
+                            setTimeout(() => {
+                                notification.style.display = 'none'; // Sembunyikan notifikasi setelah beberapa waktu
+                            }, 5000); // Sembunyikan setelah 5 detik
+                        } else {
+                            // Logika tambahan untuk menangani error dari server
+                            console.error('Kesalahan:', data.error || 'Terjadi kesalahan');
                         }
                     })
                     .catch(error => {
                         console.error('Error:', error);
+                        const errorNotification = document.getElementById('errorNotification');
+                        errorNotification.style.display = 'block';
+                        errorNotification.textContent = 'Terjadi kesalahan saat mengirim pesan.';
+                        setTimeout(() => {
+                            errorNotification.style.display = 'none'; // Sembunyikan notifikasi error setelah beberapa waktu
+                        }, 5000); // Sembunyikan setelah 5 detik
                     });
                 });
-            </script>
+            </script>            
         </div>
     </div>
 </body>
