@@ -76,6 +76,10 @@ Berisi informasi tentang perusahaan seperti cerita tentang kami, apa yang kami t
 
 Pengunjung dapat menghubungi Coffe Been melalui formulir yang disediakan. Halaman ini juga menyertakan informasi kontak seperti email, nomor telepon, dan alamat fisik.
 
+### 5. **Database**
+
+Database yang kami terapkan terdiri dari database produk dan database pesan form dari halaman kontak. Yang mana pada produk telah memiliki seeder sehingga apabila sewaktu-waktu perlu dimigrate kembali isi dari produk akan tidak berubah.
+
 <br />
 <br />
 
