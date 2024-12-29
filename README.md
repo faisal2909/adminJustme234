@@ -1,5 +1,5 @@
 <h1 align=center>
-  <span>Website Company Profile Coffe Been</span>
+  <span>Website Company Profile Coffee Been</span>
 </h1>
 <p align=center>
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="300" alt="Laravel Logo">
@@ -25,7 +25,7 @@
 
 ## Pengantar
 
-Dokumentasi ini dibuat untuk menuntaskan Ujian Akhir Semester 121 Mata Kuliah Pemrograman Web. Tema yang kami ambil untuk dijadikan sebuah web adalah company profile dengan nama instansinya adalah Coffe Been. Berikut adalah anggota kelompok kami:
+Dokumentasi ini dibuat untuk menuntaskan Ujian Akhir Semester 121 Mata Kuliah Pemrograman Web. Tema yang kami ambil untuk dijadikan sebuah web adalah company profile dengan nama instansinya adalah Coffee Been. Berikut adalah anggota kelompok kami:
 1. Amri Hanif Faiz Abidin
 2. Haikal Firdaus
 3. Muhammad Faisal Hakim
@@ -37,7 +37,7 @@ Dokumentasi ini dibuat untuk menuntaskan Ujian Akhir Semester 121 Mata Kuliah Pe
 
 ## Latar Belakang
 
-Website Company Profile Coffe Been adalah platform digital untuk mempromosikan bisnis kopi, berbagi cerita, dan menampilkan informasi tentang produk-produk kopi unggulan. Website ini dibangun menggunakan Laravel untuk backend dan Bootstrap untuk antarmuka pengguna. Dengan desain yang modern dan fitur yang lengkap, website ini dapat menjadi alat yang efektif untuk meningkatkan kehadiran online perusahaan kopi Anda.
+Website Company Profile Coffee Been adalah platform digital untuk mempromosikan bisnis kopi, berbagi cerita, dan menampilkan informasi tentang produk-produk kopi unggulan. Website ini dibangun menggunakan Laravel untuk backend dan Bootstrap untuk antarmuka pengguna. Dengan desain yang modern, website ini dapat menjadi alat yang efektif untuk meningkatkan kehadiran online perusahaan kopi.
 
 <br />
 <br />
@@ -66,7 +66,7 @@ Halaman ini menyambut pengunjung dengan tampilan visual yang menarik, menampilka
 
 ### 2. **Halaman Produk (Products)**
 
-Menampilkan katalog lengkap produk kopi Coffe Been. Pengguna dapat melihat deskripsi singkat dan gambar produk yang tersedia yang masing masing bisa dilihat detailnya ketika ditekan.
+Menampilkan katalog lengkap produk kopi Coffee Been. Pengguna dapat melihat deskripsi singkat dan gambar produk yang tersedia yang masing masing bisa dilihat detailnya ketika ditekan.
 
 ### 3. **Halaman Tentang Kami (About)**
 
@@ -74,7 +74,7 @@ Berisi informasi tentang perusahaan seperti cerita tentang kami, apa yang kami t
 
 ### 4. **Halaman Kontak (Contact Us)**
 
-Pengunjung dapat menghubungi Coffe Been melalui formulir yang disediakan. Halaman ini juga menyertakan informasi kontak seperti email, nomor telepon, dan alamat fisik.
+Pengunjung dapat menghubungi Coffee Been melalui formulir yang disediakan. Halaman ini juga menyertakan informasi kontak seperti email, nomor telepon, dan alamat fisik.
 
 ### 5. **Database**
 
