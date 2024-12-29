@@ -1,8 +1,10 @@
 <h1 align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; gap: 10px;">
   <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/img/Logo.png" width="100" alt="Logo Coffe Been">
   <span>Website Company Profile Coffe Been</span>
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="300" alt="Laravel Logo">
 </h1>
+<p align=center>
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="300" alt="Laravel Logo">
+</p>
 
 <div align="center">
   <a href="#">
