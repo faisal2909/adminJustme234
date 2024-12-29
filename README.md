@@ -77,7 +77,7 @@ Pengunjung dapat menghubungi Coffe Been melalui formulir yang disediakan. Halama
 ### Halaman Utama (Home)
 <p align='Left' valign='top'>
   <span>
-    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/HomePage.jpeg" width="400px" alt="Logo Coffe Been">
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/HomePage.jpeg" width="400px" alt="Properti Coffe Been">
   </span>
 </p>
 
@@ -86,36 +86,36 @@ Pengunjung dapat menghubungi Coffe Been melalui formulir yang disediakan. Halama
 Keseluruhan:
 <p align='Left' valign='top'>
   <span>
-    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductsPage.jpeg" width="400px" alt="Logo Coffe Been">
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductsPage.jpeg" width="400px" alt="Properti Coffe Been">
   </span>
 </p>
 
 Setiap Produk:
 <p align='Left' valign='top'>
   <span>
-    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Kintamani.jpeg" width="400px" alt="Logo Coffe Been">
-    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Mandailing.jpeg" width="400px" alt="Logo Coffe Been">
-    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Bajawa.jpeg" width="400px" alt="Logo Coffe Been">
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Kintamani.jpeg" width="400px" alt="Properti Coffe Been">
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Mandailing.jpeg" width="400px" alt="Properti Coffe Been">
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Bajawa.jpeg" width="400px" alt="Properti Coffe Been">
   </span>
 </p>
 
 ### Halaman Tentang Kami (About Us)
 <p align='Left' valign='top'>
   <span>
-    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/AboutPage.jpeg" width="400px" alt="Logo Coffe Been">
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/AboutPage.jpeg" width="400px" alt="Properti Coffe Been">
   </span>
 </p>
 
 ### Halaman Kontak (Contact Us)
 <p align='Left' valign='top'>
   <span>
-    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ContactPage.jpeg" width="400px" alt="Logo Coffe Been">
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ContactPage.jpeg" width="400px" alt="Properti Coffe Been">
   </span>
 </p>
 
 ### Database
 <p align='Left' valign='top'>
   <span>
-    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/PenggunaanDatabasePadaFormContact.jpg" width="400px" alt="Logo Coffe Been">
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/PenggunaanDatabasePadaFormContact.JPG" width="400px" alt="Properti Coffe Been">
   </span>
 </p>
