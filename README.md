@@ -1,11 +1,22 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<h1 align="center"><img src="https://github.com/Justme-dev-lab/adminJustme234/public/img/logo.png" width="400" alt="Logo Coffe Been"> Website Company Profile Coffe Been <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></h1>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Laravel-6-red.svg?style=flat-square" alt="laravel">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/MySQL-.-orange.svg?style=flat-square" alt="mysql">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Bootstrap-4-blue.svg?style=flat-square" alt="bootstrap">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/%20-Regna%20Template%202-coral.svg" alt="regna">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/%20-ElaAdmin%202-green.svg" alt="ela-admin">
+  </a>
+</div>
 
 ## About Laravel
 
