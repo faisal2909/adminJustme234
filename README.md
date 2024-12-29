@@ -44,6 +44,8 @@ Website Company Profile Coffe Been adalah platform digital untuk mempromosikan b
 
 ## Logo
 
+Penerapan logo kami menggunakan unsur utama yaitu biji kopi dengan menggunakan warna kode #342A1E dan #D4CCBF yang seolah-olah berada di atas suatu permukaan fluid. Dengan dibungkus bentuk lingkaran, kami ingin menunjukkan adanya suatu unsur totalitas, keutuhan, dan ketidakterbatasan.
+
 <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/img/Logo.png" width="300px" alt="Logo Coffe Been">
 
 <br />
