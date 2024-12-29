@@ -44,7 +44,7 @@ Website Company Profile Coffe Been adalah platform digital untuk mempromosikan b
 <br />
 <br />
 
-# Fitur Form
+## Fitur Form
 
 Fitur form yang kami miliki berupa mengirim pesan lewat halaman Contact.
 
@@ -113,7 +113,7 @@ Setiap Produk:
   </span>
 </p>
 
-##Database
+### Database
 <p align='Left' valign='top'>
   <span>
     <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/PenggunaanDatabasePadaFormContact.jpg" width="400px" alt="Logo Coffe Been">
