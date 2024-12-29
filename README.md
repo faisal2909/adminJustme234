@@ -27,17 +27,29 @@ Dokumentasi ini dibuat untuk menuntaskan Ujian Akhir Semester 121 Mata Kuliah Pe
 4. Rafi Haritsya Fajar
 5. Thariq Aziz
 
+<br />
+<br />
+
 ## Latar Belakang
 
 Website Company Profile Coffe Been adalah platform digital untuk mempromosikan bisnis kopi, berbagi cerita, dan menampilkan informasi tentang produk-produk kopi unggulan. Website ini dibangun menggunakan Laravel untuk backend dan Bootstrap untuk antarmuka pengguna. Dengan desain yang modern dan fitur yang lengkap, website ini dapat menjadi alat yang efektif untuk meningkatkan kehadiran online perusahaan kopi Anda.
+
+<br />
+<br />
 
 ## Logo
 
 <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/img/Logo.png" width="300px" alt="Logo Coffe Been">
 
+<br />
+<br />
+
 # Fitur Form
 
 Fitur form yang kami miliki berupa mengirim pesan lewat halaman Contact.
+
+<br />
+<br />
 
 ## Penjelasan Halaman dan Database
 
@@ -57,31 +69,53 @@ Berisi informasi tentang perusahaan seperti cerita tentang kami, apa yang kami t
 
 Pengunjung dapat menghubungi Coffe Been melalui formulir yang disediakan. Halaman ini juga menyertakan informasi kontak seperti email, nomor telepon, dan alamat fisik.
 
+<br />
+<br />
+
 ## Screenshot Halaman dan Database
 
 ### Halaman Utama (Home)
-
-<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/HomePage.jpeg" width="300px" alt="Logo Coffe Been">
+<p align='Left' valign='top'>
+  <span>
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/HomePage.jpeg" width="400px" alt="Logo Coffe Been">
+  </span>
+</p>
 
 ### Halaman Produk Secara Keseluruhan beserta Setiap Produknya (Products)
 
 Keseluruhan:
-<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductsPage.jpeg" width="300px" alt="Logo Coffe Been">
+<p align='Left' valign='top'>
+  <span>
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductsPage.jpeg" width="400px" alt="Logo Coffe Been">
+  </span>
+</p>
 
 Setiap Produk:
-<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Kitamani.jpeg" width="300px" alt="Logo Coffe Been">
-<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Mandailing.jpeg" width="300px" alt="Logo Coffe Been">
-<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Bajawa.jpeg" width="300px" alt="Logo Coffe Been">
+<p align='Left' valign='top'>
+  <span>
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Kintamani.jpeg" width="400px" alt="Logo Coffe Been">
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Mandailing.jpeg" width="400px" alt="Logo Coffe Been">
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ProductPage-Bajawa.jpeg" width="400px" alt="Logo Coffe Been">
+  </span>
+</p>
 
 ### Halaman Tentang Kami (About Us)
-
-<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/AboutPage.jpeg" width="300px" alt="Logo Coffe Been">
+<p align='Left' valign='top'>
+  <span>
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/AboutPage.jpeg" width="400px" alt="Logo Coffe Been">
+  </span>
+</p>
 
 ### Halaman Kontak (Contact Us)
-
-<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ContactPage.jpeg" width="300px" alt="Logo Coffe Been">
+<p align='Left' valign='top'>
+  <span>
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/ContactPage.jpeg" width="400px" alt="Logo Coffe Been">
+  </span>
+</p>
 
 ##Database
-
-<img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/PenggunaanDatabasePadaFormContact.jpg" width="300px" alt="Logo Coffe Been">
-
+<p align='Left' valign='top'>
+  <span>
+    <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/Screenshot/PenggunaanDatabasePadaFormContact.jpg" width="400px" alt="Logo Coffe Been">
+  </span>
+</p>
