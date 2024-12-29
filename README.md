@@ -1,5 +1,4 @@
-<h1 align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
-  <img src="https://github.com/Justme-dev-lab/adminJustme234/blob/main/public/img/Logo.png" width="100" alt="Logo Coffe Been">
+<h1 align=center>
   <span>Website Company Profile Coffe Been</span>
 </h1>
 <p align=center>
