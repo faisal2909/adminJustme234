@@ -18,6 +18,9 @@
   </a>
 </div>
 
+## Pengantar
+Laporan project ini dibuat untuk memenuhi Ujian Akhir Semester 121 Mata Kuliah Pemrograman Web. Tema yang kita ambil dalam proses pembuatan website adalah company profile dengan 
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
